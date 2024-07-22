@@ -1,0 +1,20 @@
+[package]
+name = "fermah"
+version = "0.1.0"
+description = "Fermah network."
+
+edition = "2021"
+rust-version = "1.79"
+
+authors = ["Fermah Contributors"]
+homepage = "https://fermah.xyz"
+repository = "https://github.com/fermah/dummy"
+documentation = "https://docs.fermah.xyz"
+
+keywords = ["zero-knowledge", "proofs", "crypto", "zk", "avs"]
+categories = ["command-line-utilities"]
+
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
